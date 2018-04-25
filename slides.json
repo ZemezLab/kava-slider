@@ -1,0 +1,52 @@
+[
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-1.png",
+		"title": "Caring <b>Support</b>",
+		"desc": "Feel confident while using CrocoBlock products, and leave all the rest to 24/7 efficient support team"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-2.png",
+		"title": "Clear <b>Documentation</b>",
+		"desc": "Use the vast documentation in order to learn more. about CrocoBlock products and how to use them"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-3.png",
+		"title": "Premium <b>Plugins</b>",
+		"desc": "Jet plugins are the perfect assets which help create any content you want in practically no-time without ever bothering to learn coding"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-4.png",
+		"title": "Flagship <b>Kava Theme</b>",
+		"desc": "Enjoy the innovative modular approach to building content in few clicks with the clean and lightweight Kava theme"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-5.png",
+		"title": "<b>Modular</b> Functionality",
+		"desc": "CrocoBlock offers an innovative approach to building content, creating it from pre-styled modules"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-6.png",
+		"title": "<b>Header&Footer</b> Builder",
+		"desc": "With the new groundbreaking header & footer builder You’ll be able to create as many headers and footers as you need"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-7.png",
+		"title": "Made for <b>Elementor</b>",
+		"desc": "All the products represented on CrocoBlock are made for Elementor and aimed to make working with it easier"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-8.png",
+		"title": "Unwavering <b>Stability</b>",
+		"desc": "CrocoBlock products use only native WordPress functionality, which means they’ll work with all the latest WordPress updates"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-9.png",
+		"title": "Perfect for <b>WooCommerce</b>",
+		"desc": "Create your online shop in few clicks with powerful CrocoBlock tools always at hand"
+	},
+	{
+		"image": "https://raw.githubusercontent.com/ZemezLab/kava-slider/master/images/slide-10.png",
+		"title": "Lots of <b>Demos</b>",
+		"desc": "With CrocoBlock subscription You get multiple stylish demos for creating different unique websites"
+	}
+]
